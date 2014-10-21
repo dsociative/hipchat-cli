@@ -35,7 +35,7 @@ OPTIONS:
    -l <level>     Nagios message level (critical, warning, unknown, ok, down, up). Will override color.
    -n             Trigger notification for people in the room
    -o             API host (api.hipchat.com)
-   -v <version>   API version (default: v1)
+   -v <version>   API version (default: v2)
 EOF
 }
 
